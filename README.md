@@ -920,3 +920,24 @@ For a clean demonstration, present one complete flow at a time:
 **Student → Doctor → Nurse → Lab → CMO → Finance/Procurement → Ambulance Driver**, switching roles only to demonstrate the handoff.
 
 In the production system, these handoffs happen between **different authenticated users**. The presenter changes roles only through the **Demo Role Switcher** to demonstrate those handoffs; production users never switch roles manually.
+
+## Team Members
+
+| Student ID | Name | GitHub |
+| :---: | --- | --- |
+| 230042107 | Md. Faiyaz Tahmid | [faiyaZzz75](https://github.com/faiyaZzz75) |
+| 230042113 | Shaikh Muhaiminul Hasan | [Sk-Muhaiminul-Hasan](https://github.com/Sk-Muhaiminul-Hasan) |
+| 230042117 | M Safwan Hasan Khan | [safwansatil](https://github.com/safwansatil) |
+| 230042119 | Talha Zubayer | — |
+| 230042121 | Md Rufayed Ul Alam | [rufayed-rehan](https://github.com/rufayed-rehan) |
+| 230042125 | Ittesaf Yeasir Ithun | [ithun-y-ittesaf](https://github.com/ithun-y-ittesaf) |
+| 230042127 | Maliha Tasnim Khan | [tasnim240](https://github.com/tasnim240) |
+| 230042129 | Hasan Mobarak Mahi | — |
+| 230042135 | Khadiza Sultana | [tayma-06](https://github.com/tayma-06) |
+| 230042137 | Didarul Shahriar | [didarulshahriar37](https://github.com/didarulshahriar37) |
+| 230042149 | Asif Azad | — |
+| 230042151 | Arafat Hosen | [vl-Arafat](https://github.com/vl-Arafat) |
+| 230042153 | Sieam Shahriare | [SieamShahriare](https://github.com/SieamShahriare) |
+| 230042159 | Saika Sarara | [saika-sarara](https://github.com/saika-sarara) |
+
+---
