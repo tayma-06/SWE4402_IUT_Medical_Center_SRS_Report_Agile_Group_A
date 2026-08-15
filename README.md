@@ -14,13 +14,7 @@
 
 ### Recommended method
 
-| Action | Reaction |
-|---|---|
-| Keep the `.html` wireframe file on your computer | No installation is required |
-| Double-click the HTML file | It opens in the default browser |
-| Or right-click → **Open with** → Chrome / Edge / Firefox | The wireframe opens as a normal local web page |
-| Use **Desktop 1440** | Shows the full desktop presentation layout |
-| Use **Mobile 390** | Shows the mobile presentation layout |
+Go to the website : https://tayma-06.github.io/SWE4402_IUT_Medical_Center_SRS_Report_Agile_Group_A/
 
 ### Login in the prototype
 
